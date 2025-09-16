@@ -1,0 +1,88 @@
+.timetable{
+    font-family: sans-serif;
+    align-items: center;
+    font-size: 11px;
+    table-layout: fixed;
+    column-gap: 0px;
+    row-gap: 0px;
+    column-width:11px;
+    grid-row: fixed;
+    text-align: center;
+    table-layout: fixed;
+    margin-top: 0;
+    margin-left: 80px;
+    margin-right: 10px;
+    font-weight: bold;
+    height: 11px;
+    border-radius: 20px;
+    border-collapse: collapse;
+
+
+
+}
+.DAY{
+    background-color: GREY;
+
+}
+.TIME{
+    background-color: GREY;
+
+}
+.ftt{
+  writing-mode: vertical-rl;   
+  text-orientation: upright;  
+  font-weight: bolder;
+  vertical-align: middle;
+  text-align: center;
+}
+.heading{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 0px;
+}
+.FTT2{
+    font-weight: bolder;
+    font-size: 12px;
+    vertical-align: middle;
+    text-align: center;
+    font-family: sans-serif;
+    width: 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: 11px;
+    margin-left: 80px;
+    margin-right: 10px;
+    margin-top: 0px;
+    font-weight: bold;
+
+    
+
+
+
+}
+.lunch{
+    width: 5px;
+}
+.break{
+    width: 5px;
+}
+.CLUBS{
+    width: 5px;
+}
+.mindlec{
+    width: 5px;
+}
+.games{
+    width: 5px;
+}
+.dev{
+    width: 5px;
+}
+
+
