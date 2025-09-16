@@ -6,7 +6,11 @@
  * ALT text for images; i have used alternative text that describes the screenshot of the timetabe i have uploaded just incase there is poor connection the user will be able to know what the imahe is about.
  * Proper use of colours: i have ensured that the colours i have used are visible and of good contrast allowing the user to read confidently and smothly through out the entire timetable.
  * Text readability: i have not ised too small fonts to allow the users see through the content of the timetable. this will ensure my timetable can be read by everybody.
- * Responsiveness is an essential  requirement when creating a webpage... this is because the website will be used by diffrent users with diffrent gadetry. I Have considerd  that and  i have develoloped the timetable in a way that it can be accessed by everone
+ * Responsiveness is an essential  requirement when creating a webpage... this is because the website will be used by diffrent users with diffrent gadetry. I Have considerd  that and  i have develoloped the timetable in a way that it can be accessed by everyone.
+
+
+![Screenshot of school timetable for 2024/2025](timetable_preview.png)
+
    
    
    
